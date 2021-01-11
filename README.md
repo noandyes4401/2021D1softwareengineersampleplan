@@ -1,10 +1,3 @@
-<!DOCTPYE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <style type="text/css"></style>
-    <title >This`s my homework.</title>    
-    </head>
 <body style="background-color:black;">
     <h1 style="background-color:#12BC44;color:yellow;font-weight:bold;font-size:88px;text-align:center;padding:18px;">JUST SIMPLE OF TEXT</h1>
     <div style="display:inline-block;">
