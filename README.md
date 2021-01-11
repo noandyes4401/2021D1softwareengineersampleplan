@@ -2,7 +2,6 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <style type="text/css"></style>
     <title >This`s my homework.</title>    
     </head>
 <body style="background-color:black;">
