@@ -1,8 +1,6 @@
 <body style="background-color:black;">
     <h1 style="background-color:#12BC44;color:yellow;font-weight:bold;font-size:88px;text-align:center;padding:18px;">JUST SIMPLE OF TEXT</h1>
     <div style="display:inline-block;">
-    <video width="180" height="300" controls>
-        <source src="https://player.vimeo.com/external/414767346.sd.mp4?s=0a3314f62db0b190b47997ada3b93a09deec534c&profile_id=165&oauth2_token_id=57447761" type="video/mp4"></video></div>
     <div style="width:900px;padding:1px;margin:10px;display:inline-block;vertical-align:top;line;color:gainsboro"><ul>
         <h3 style="color:cornflowerblue;font-size:28px">Author Website : 陳君憲/Jision Chen   2021-01-11</h3>
         <li style="font-size:20PX"><b>個人簡介</b></li>
