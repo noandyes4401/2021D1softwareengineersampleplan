@@ -1,8 +1,4 @@
-<!Doctype html>
-<html>
-<head>
-    </head>
-<body style="background-color:black;">
+<div style="background-color:black;">
     <h1 style="background-color:#12BC44;color:yellow;font-weight:bold;font-size:88px;text-align:center;padding:18px;">JUST SIMPLE OF TEXT</h1>
     <div style="display:inline-block;">
     <div style="width:900px;padding:1px;margin:10px;display:inline-block;vertical-align:top;line;color:gainsboro"><ul>
