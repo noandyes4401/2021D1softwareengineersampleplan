@@ -1,3 +1,7 @@
+<!Doctype html>
+<html>
+<head>
+    </head>
 <body style="background-color:black;">
     <h1 style="background-color:#12BC44;color:yellow;font-weight:bold;font-size:88px;text-align:center;padding:18px;">JUST SIMPLE OF TEXT</h1>
     <div style="display:inline-block;">
@@ -25,3 +29,5 @@
         </ol>
         <li style="font-size:20PX"><b>額外想對我們說的話。</b></li>
         <ol>只是希望這一切順利的進行，我能盡早完成各種課題而不陷入精疲力竭的困境中。</ol>
+        </body>
+        <
