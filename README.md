@@ -1,9 +1,3 @@
-<head>
-$ git submodule deinit PATH-TO-SUBMODULE
-$ git rm PATH-TO-SUBMODULE
-$ git commit -m "Remove submodule"
-$ rm -rf .git/modules/PATH-TO-SUBMODULE
-</head>
 <div style="background-color:black;">
     <h1 style="background-color:#12BC44;color:yellow;font-weight:bold;font-size:88px;text-align:center;padding:18px;">JUST SIMPLE OF TEXT</h1>
     <div style="display:inline-block;">
